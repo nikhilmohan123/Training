@@ -1,0 +1,28 @@
+how to give acccess to user?
+
+what is the exact use of cloud front?done
+
+howto use vpc dedicated?dont know check later at end
+
+difference between sudo user and root user?
+
+what is static link exactly means?
+
+what is life cycle in s3?
+
+
+accessing linux GUI?==matedesktop
+
+what is iaas paas saas exactly mean?
+
+
+
+
+
+
+
+
+
+********************************************************************************
+what is the use of AWS like load balancing,scalability auto-scaling?
+********************************************************************************
